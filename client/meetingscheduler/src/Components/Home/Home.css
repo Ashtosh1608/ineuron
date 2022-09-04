@@ -1,0 +1,26 @@
+.full{
+    background-color: rgb(76, 201, 232);
+    height: 100vh;
+}
+.mts{
+    text-align: center;
+    font-size: 35px;
+}
+.wlc{
+    padding-top: 190px;
+    text-align: center;
+    font-size: 50px;
+}
+.lgn{
+    padding-top: 110px;
+    padding-left: 500px;
+    font-size: 50px;
+    color: rgb(84, 217, 226);
+    text-align: center;
+
+}
+.hboxx{
+    display: flex;
+    
+    
+}

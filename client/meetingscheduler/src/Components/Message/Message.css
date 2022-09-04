@@ -1,0 +1,23 @@
+.mfull{
+background-color: aqua;
+text-align: center;
+margin-top: 200px;
+margin-left: 350px;
+width: 50%;
+border: 2px red solid;
+padding: 40px;
+border-radius: 2%;
+}
+.mboxx{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+
+
+}
+.mboxx2{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}

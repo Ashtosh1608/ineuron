@@ -1,0 +1,11 @@
+.dta{
+    display: flex;
+    flex-direction: row;
+}
+.dtaitem{
+    padding-left: 30px;
+}
+.dtaitemm{
+    padding-left: 30px;
+    color: rgb(152, 64, 64);
+}

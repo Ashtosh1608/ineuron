@@ -1,0 +1,46 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    margin-left: 550px;
+    margin-top: 100px;
+    border: 3px black solid;
+    width: 27%;
+    padding: 40px;
+    background-color: antiquewhite;
+}
+.eml{
+    border-radius: 4%;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: rgb(181, 238, 240);
+    
+    
+    
+    
+    
+}
+.psw{
+    background-color: rgb(181, 238, 240);
+    border-radius: 4%;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+
+    
+    
+}
+.sbm{
+    border-radius: 2%;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(110, 175, 231);
+    /* margin-bottom: 50px; */
+
+}
+.sbm:hover{
+    background-color: rgb(70, 169, 255);;
+}
